@@ -2,6 +2,9 @@
 
 A beautiful commemorative website celebrating 185 years of educational excellence at Faridpur Zilla School (Est. 1840).
 
+##Live URL 
+https://fzs-185years.vercel.app/
+
 ## 🎓 About
 
 Faridpur Zilla School, established in 1840, is one of the oldest and most prestigious educational institutions in Bangladesh. This website commemorates its rich 185-year history and legacy.
