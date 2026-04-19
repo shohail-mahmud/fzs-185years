@@ -2,7 +2,7 @@
 
 A beautiful commemorative website celebrating 185 years of educational excellence at Faridpur Zilla School (Est. 1840).
 
-##**Live URL** 
+**Live URL** 
 https://fzs-185years.vercel.app/
 
 ## 🎓 About
